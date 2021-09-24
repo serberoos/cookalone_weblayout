@@ -1,7 +1,9 @@
-##INFO
-Self-catering Receipe Android App "CookAlone"
+## INFO
+ Web Layout : Self-catering Receipe **cookalone**
 
-##Using Language
+## Using Language
 HTML, CSS
 
-##Layout Example
+## Layout Example
+![image](https://user-images.githubusercontent.com/74893599/134670523-bc8aff23-bacf-4c20-825b-ce6904820d39.png)
+
